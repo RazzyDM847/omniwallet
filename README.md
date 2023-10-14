@@ -1,4 +1,4 @@
-# Omniwallet: A multi-currency web wallet from Mastercoin
+kip# Omniwallet: A multi-currency web wallet from Mastercoin
 
 ## What is the OmniLayer/OmniProtocol?
 
