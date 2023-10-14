@@ -156,7 +156,7 @@ Find and replace the following sections near the beginning of /etc/nginx/sites-a
 nano /etc/nginx/sites-available/default
 
         ## Set this to reflect the location of the www directory within the omniwallet repo.
-        root /home/myUser/omniwallet/www/; -> "root /{path to project}/omniwallet/www/;
+        root /home/myUser/omniwallet/www/; -> "root LLP/{path to project}/omniwallet/www/;
 
         ## Set this to reflect the location of the omni-redirects file within the omniwallet repo
         include /home/myUser/omniwallet/etc/nginx/sites-available/omni-redirects;
